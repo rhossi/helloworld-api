@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uJdT3YWKStlqojZ5q984WqJtidZLrlQKIZbGfoPkQus=",
+  "Source": "helloworld-api",
+  "BasePath": "_content/helloworld-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
